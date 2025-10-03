@@ -83,5 +83,3 @@ blog-task/
 ## **Author**
 
 **Satya** – BTech Student | Aspiring Front-end Developer
-
----
