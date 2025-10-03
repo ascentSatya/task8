@@ -85,5 +85,3 @@ blog-task/
 **Satya** – BTech Student | Aspiring Front-end Developer
 
 ---
-
-If you want, I can also **write a super short version of README** that’s **1–2 paragraphs** for internship submission — some recruiters prefer concise docs. Do you want me to do that too?
