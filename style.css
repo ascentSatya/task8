@@ -1,0 +1,23 @@
+/* Global font for better look */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa; /* light gray */
+}
+
+/* Card hover effect */
+.card:hover {
+  transform: scale(1.02);
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Footer tweak */
+footer {
+  font-size: 14px;
+  letter-spacing: 0.5px;
+}
+
+/* Navbar brand */
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 1px;
+}
